@@ -1,0 +1,4 @@
+arabic-reshaper
+pandas
+tabulate
+bidi.algorithm
